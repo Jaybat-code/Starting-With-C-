@@ -12,7 +12,7 @@ namespace MyFirstProject
         {
             for(int i = 0; i < 100; i++)
             {
-                Console.WriteLine("Fuck Your"+i);
+                Console.WriteLine("CENCORED "+i);
             }
             Console.Read();
         }
